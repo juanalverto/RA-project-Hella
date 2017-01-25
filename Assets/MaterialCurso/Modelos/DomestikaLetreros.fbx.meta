@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: a81bc8a305bc94e59a0b67e0708fb99b
+timeCreated: 1467155235
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: domestika
+    100002: //RootNode
+    100004: pCube2
+    100006: pCube3
+    100008: pCube4
+    100010: pCube5
+    100012: pCube6
+    100014: pCube7
+    100016: Plane002
+    100018: Plane005
+    100020: polySurface1
+    100022: polySurface2
+    100024: polySurface3
+    100026: polySurface4
+    100028: polySurface5
+    100030: polySurface6
+    100032: transform1
+    100034: transform2
+    100036: transform3
+    100038: transform4
+    100040: transform5
+    100042: transform6
+    100044: transform7
+    400000: domestika
+    400002: //RootNode
+    400004: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pCube5
+    400012: pCube6
+    400014: pCube7
+    400016: Plane002
+    400018: Plane005
+    400020: polySurface1
+    400022: polySurface2
+    400024: polySurface3
+    400026: polySurface4
+    400028: polySurface5
+    400030: polySurface6
+    400032: transform1
+    400034: transform2
+    400036: transform3
+    400038: transform4
+    400040: transform5
+    400042: transform6
+    400044: transform7
+    2300000: domestika
+    2300002: pCube2
+    2300004: Plane002
+    2300006: Plane005
+    2300008: polySurface1
+    2300010: polySurface3
+    2300012: polySurface5
+    2300014: polySurface6
+    3300000: domestika
+    3300002: pCube2
+    3300004: Plane002
+    3300006: Plane005
+    3300008: polySurface1
+    3300010: polySurface3
+    3300012: polySurface5
+    3300014: polySurface6
+    4300000: domestika
+    4300002: Plane005
+    4300004: Plane002
+    4300006: pCube2
+    4300008: polySurface1
+    4300010: polySurface3
+    4300012: polySurface5
+    4300014: polySurface6
+    7400000: Abre
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Abre
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: domestika
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform4
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: pCube4/transform3
+        weight: 1
+      - path: pCube5
+        weight: 1
+      - path: pCube5/transform2
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube6/transform1
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube7/polySurface1
+        weight: 1
+      - path: pCube7/polySurface2
+        weight: 1
+      - path: pCube7/polySurface2/polySurface3
+        weight: 1
+      - path: pCube7/polySurface2/polySurface4
+        weight: 1
+      - path: pCube7/polySurface2/polySurface4/polySurface5
+        weight: 1
+      - path: pCube7/polySurface2/polySurface4/polySurface6
+        weight: 1
+      - path: pCube7/polySurface2/polySurface4/transform7
+        weight: 1
+      - path: pCube7/polySurface2/transform6
+        weight: 1
+      - path: pCube7/transform5
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane005
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

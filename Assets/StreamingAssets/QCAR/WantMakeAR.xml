@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bobina-encendido" size="547.000000 535.000000" />
+    <ImageTarget name="bujia-fisica" size="900.000000 600.000000" />
+    <ImageTarget name="tarjetaAR" size="403.000000 705.000000" />
+    <ImageTarget name="harryAR" size="1641.000000 2670.372803" />
+  </Tracking>
+</QCARConfig>
